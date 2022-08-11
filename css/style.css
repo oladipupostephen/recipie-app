@@ -450,6 +450,7 @@ body {
 .shopping {
   padding: 3rem 4rem;
   display: flex;
+  color: #F2EFEE;
   flex-direction: column; }
   .shopping__list {
     list-style: none;
