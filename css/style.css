@@ -477,6 +477,7 @@ body {
       font-size: 1.2rem;
       text-align: center;
       border: none;
+      color: red;
       width: 3.7rem;
       border-radius: 3px; }
       .shopping__count input:focus {
